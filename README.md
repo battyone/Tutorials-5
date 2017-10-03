@@ -1,2 +1,2 @@
 # Tutorials
-Notebooks of tutorials available on ![JoshLawman.com](http://joshlawman.com/).
+Notebooks of tutorials available on http://joshlawman.com/.
